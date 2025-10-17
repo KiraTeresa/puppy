@@ -24,3 +24,7 @@ func BigBarks() string {
 func VersionTest() {
 	fmt.Println("Change of V1.0.0")
 }
+
+func VersionTest2() {
+	dog.From11()
+}
