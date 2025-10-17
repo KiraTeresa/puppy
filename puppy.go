@@ -21,6 +21,6 @@ func BigBarks() string {
 	return dog.WhenGrownUp(Barks())
 }
 
-func versionTest() {
+func VersionTest() {
 	fmt.Println("Change of V1.0.0")
 }
